@@ -1,0 +1,418 @@
+[
+	{
+		"id": 1,
+		"image": "./source/assets/products/1.png",
+		"name": "SABONETE FACIAL AVENE PELE MISTA A OLEOSA E SENSIVEL",
+		"adress": "https://www.eau-thermale-avene.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "oleosa"
+	},
+	{
+		"id": 2,
+		"image": "./source/assets/products/2.png",
+		"name": "SABONETE FACIAL DARROW PELE OLEOSA E ACNEICA",
+		"adress": "https://darrow.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "acneica"
+	},
+	{
+		"id": 3,
+		"image": "./source/assets/products/3.png",
+		"name": "SABONETE FACIAL LA ROCHE-POSAY PELE OLEOSA E ACNEICA",
+		"adress": "https://www.laroche-posay.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "acneica"
+	},
+	{
+		"id": 4,
+		"image": "./source/assets/products/4.png",
+		"name": "SABONETE FACIAL LA ROCHE-POSAY PELE OLEOSA E SENSIVEL",
+		"adress": "https://www.laroche-posay.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 5,
+		"image": "./source/assets/products/5.png",
+		"name": "SABONETE FACIAL CETAPHIL PELE OLEOSA",
+		"adress": "https://www.cetaphil.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "oleosa"
+	},
+	{
+		"id": 6,
+		"image": "./source/assets/products/6.png",
+		"name": "SABONETE FACIAL PRINCIPIA PELE MISTA A OLEOSA",
+		"adress": "https://www.principiaskin.com/",
+		"category": "gelDeLimpeza",
+		"skinType": "mista"
+	},
+	{
+		"id": 7,
+		"image": "./source/assets/products/7.png",
+		"name": "SABONETE FACIAL SALLVE PELE MISTA A OLEOSA",
+		"adress": "https://www.sallve.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "mista"
+	},
+	{
+		"id": 8,
+		"image": "./source/assets/products/8.png",
+		"name": "SABONETE FACIAL BIODERMA PELE SENSIVEL",
+		"adress": "https://www.biodermabrasil.com/",
+		"category": "gelDeLimpeza",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 9,
+		"image": "./source/assets/products/9.png",
+		"name": "SABONETE FACIAL CREAMY PELE MISTA A OLEOSA",
+		"adress": "https://www.creamy.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "oleosa"
+	},
+	{
+		"id": 10,
+		"image": "./source/assets/products/10.png",
+		"name": "SABONETE FACIAL CREAMY PELE SECA A NORMAL",
+		"adress": "https://www.creamy.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "seca"
+	},
+	{
+		"id": 11,
+		"image": "./source/assets/products/11.png",
+		"name": "SABONETE FACIAL CREAMY TODOS OS TIPOS DE PELE",
+		"adress": "https://www.creamy.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "normal"
+	},
+	{
+		"id": 12,
+		"image": "./source/assets/products/12.png",
+		"name": "SABONETE FACIAL BIORE PELE SECA E SENSIVEL",
+		"adress": "https://biorebrasil.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 13,
+		"image": "./source/assets/products/13.png",
+		"name": "SABONETE FACIAL CERAVE PELE ACNEICA E OLEOSA",
+		"adress": "https://www.cerave.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "acneica"
+	},
+	{
+		"id": 14,
+		"image": "./source/assets/products/14.png",
+		"name": "SABONETE FACIAL CERAVE PELE SECA A NORMAL",
+		"adress": "https://www.cerave.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "seca"
+	},
+	{
+		"id": 15,
+		"image": "./source/assets/products/15.png",
+		"name": "SABONETE FACIAL NEUTROGENA TODOS OS TIPOS DE PELE",
+		"adress": "https://www.neutrogena.com.br/",
+		"category": "gelDeLimpeza",
+		"skinType": "normal"
+	},
+	{
+		"id": 16,
+		"image": "./source/assets/products/16.png",
+		"name": "SABONETE FACIAL NEEDS PELE SECA A NORMAL",
+		"adress": "https://www.drogaraia.com.br/search?w=needs",
+		"category": "gelDeLimpeza",
+		"skinType": "seca"
+	},
+	{
+		"id": 17,
+		"image": "./source/assets/products/17.png",
+		"name": "HIDRATANTE FACIAL CERAVE PELE NORMAL A SECA",
+		"adress": "https://www.cerave.com.br/",
+		"category": "hidratante",
+		"skinType": "normal"
+	},
+	{
+		"id": 18,
+		"image": "./source/assets/products/18.png",
+		"name": "HIDRATANTE FACIAL NETROGENA PELE NORMAL A OLEOSA ",
+		"adress": "https://www.neutrogena.com.br/",
+		"category": "hidratante",
+		"skinType": "oleosa"
+	},
+	{
+		"id": 19,
+		"image": "./source/assets/products/19.png",
+		"name": "HIDRATANTE FACIAL CREAMY TODOS OS TIPOS DE PELE ESPECIALMENTE SENSIVEIS",
+		"adress": "https://www.creamy.com.br/",
+		"category": "hidratante",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 20,
+		"image": "./source/assets/products/20.png",
+		"name": "HIDRATANTE FACIAL CREAMY PELE OLEOSA",
+		"adress": "https://www.creamy.com.br/",
+		"category": "hidratante",
+		"skinType": "oleosa"
+	},
+	{
+		"id": 21,
+		"image": "./source/assets/products/21.png",
+		"name": "HIDRATANTE FACIAL LA ROCHE-POSAY PELE SECA E SENSIVEL",
+		"adress": "https://www.laroche-posay.com.br/",
+		"category": "hidratante",
+		"skinType": "seca"
+	},
+	{
+		"id": 22,
+		"image": "./source/assets/products/22.png",
+		"name": "HIDRATANTE FACIAL DERMOTIVIN PELE ACNEICA",
+		"adress": "https://www.dermotivin.com.br/",
+		"category": "hidratante",
+		"skinType": "acneica"
+	},
+	{
+		"id": 23,
+		"image": "./source/assets/products/23.png",
+		"name": "HIDRATANTE FACIAL PRINCIPIA PELE SENSIVEL",
+		"adress": "https://www.principiaskin.com/",
+		"category": "hidratante",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 24,
+		"image": "./source/assets/products/24.png",
+		"name": "HIDRATANTE FACIAL MANTECORP TODOS OS TIPOS DE PELE ESPECIALMENTE SENSIVEIS",
+		"adress": "https://www.mantecorpskincare.com.br/",
+		"category": "hidratante",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 25,
+		"image": "./source/assets/products/25.png",
+		"name": "HIDRATANTE FACIAL BIODERMA PELE SECA A NORMAL E SENSIVEL",
+		"adress": "https://www.biodermabrasil.com/",
+		"category": "hidratante",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 26,
+		"image": "./source/assets/products/26.png",
+		"name": "HIDRATANTE FACIAL BIODERMA PELE SENSIVEL",
+		"adress": "https://www.biodermabrasil.com/",
+		"category": "hidratante",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 27,
+		"image": "./source/assets/products/27.png",
+		"name": "PROTETOR SOLAR FILTRUM ULTRA SECOPELE OLEOSA",
+		"adress": "https://www.libbs.com.br/",
+		"category": "protetorSolar",
+		"skinType": "oleosa"
+	},
+	{
+		"id": 28,
+		"image": "./source/assets/products/28.png",
+		"name": "PROTETOR SOLAR DERMAGE TODOS OS TIPOS DE PELE",
+		"adress": "https://www.dermage.com.br/",
+		"category": "protetorSolar",
+		"skinType": "normal"
+	},
+	{
+		"id": 29,
+		"image": "./source/assets/products/29.png",
+		"name": "PROTETOR SOLAR LA ROCHE-POSAY TODOS OS TIPOS DE PELE",
+		"adress": "https://www.laroche-posay.com.br/",
+		"category": "protetorSolar",
+		"skinType": "normal"
+	},
+	{
+		"id": 30,
+		"image": "./source/assets/products/30.png",
+		"name": "PROTETOR SOLAR LA ROCHE-POSAY TODOS OS TIPOS DE PELE",
+		"adress": "https://www.laroche-posay.com.br/",
+		"category": "protetorSolar",
+		"skinType": "normal"
+	},
+	{
+		"id": 31,
+		"image": "./source/assets/products/31.png",
+		"name": "PROTETOR SOLAR NETROGENA PELE MISTA A OLEOSA",
+		"adress": "https://www.neutrogena.com.br/",
+		"category": "protetorSolar",
+		"skinType": "mista"
+	},
+	{
+		"id": 32,
+		"image": "./source/assets/products/32.png",
+		"name": "PROTETOR SOLAR SKIN AQUA TODOS OS TIPOS DE PELE",
+		"adress": "https://www.rohtobrasil.com.br/",
+		"category": "protetorSolar",
+		"skinType": "seca"
+	},
+	{
+		"id": 33,
+		"image": "./source/assets/products/33.png",
+		"name": "PROTETOR SOLAR PRINCIPIA PELE OLEOSA",
+		"adress": "https://www.principiaskin.com/",
+		"category": "protetorSolar",
+		"skinType": "oleosa"
+	},
+	{
+		"id": 34,
+		"image": "./source/assets/products/34.png",
+		"name": "PROTETOR SOLAR ADCOS TODOS OS TIPOS DE PELE",
+		"adress": "https://www.lojaadcos.com.br/",
+		"category": "protetorSolar",
+		"skinType": "normal"
+	},
+	{
+		"id": 35,
+		"image": "./source/assets/products/35.png",
+		"name": "PROTETOR SOLAR DERMAGE PELE SENSIVEL",
+		"adress": "https://www.dermage.com.br/",
+		"category": "protetorSolar",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 36,
+		"image": "./source/assets/products/36.png",
+		"name": "PROTETOR SOLAR ISDIN PELE NORMAL A OLEOSA",
+		"adress": "https://www.isdin.com/pt-BR/",
+		"category": "protetorSolar",
+		"skinType": "mista"
+	},
+	{
+		"id": 37,
+		"image": "./source/assets/products/37.png",
+		"name": "ACIDO MANDELICO CREAMY",
+		"adress": "",
+		"category": "tratamento",
+		"skinType": "acneica"
+	},
+	{
+		"id": 38,
+		"image": "./source/assets/products/38.png",
+		"name": "VITAMINA C CREAMY",
+		"adress": "https://www.creamy.com.br/",
+		"category": "tratamento",
+		"skinType": ""
+	},
+	{
+		"id": 39,
+		"image": "./source/assets/products/39.png",
+		"name": "COMPLEXO DE VITAMINA B CEAMY",
+		"adress": "https://www.creamy.com.br/",
+		"category": "tratamento",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 40,
+		"image": "./source/assets/products/40.png",
+		"name": "NIACINAMIDA SIMPLE ORGANIC",
+		"adress": "https://simpleorganic.com.br/",
+		"category": "tratamento",
+		"skinType": ""
+	},
+	{
+		"id": 41,
+		"image": "./source/assets/products/41.png",
+		"name": "RETINOL SALLVE",
+		"adress": "https://www.sallve.com.br/",
+		"category": "tratamento",
+		"skinType": ""
+	},
+	{
+		"id": 42,
+		"image": "./source/assets/products/42.png",
+		"name": "NIACINAMIDA PRINCIPIA",
+		"adress": "https://www.principiaskin.com/",
+		"category": "tratamento",
+		"skinType": ""
+	},
+	{
+		"id": 43,
+		"image": "./source/assets/products/43.png",
+		"name": "LIFTACTIV VICHY",
+		"adress": "https://www.vichy.com.br/",
+		"category": "tratamento",
+		"skinType": ""
+	},
+	{
+		"id": 44,
+		"image": "./source/assets/products/44.png",
+		"name": "ANTI-PIGMENT DUAL SERUM THIAMIDOL PATENDEADO EUCERIN ",
+		"adress": "https://www.eucerin.com.br/",
+		"category": "tratamento",
+		"skinType": ""
+	},
+	{
+		"id": 45,
+		"image": "./source/assets/products/45.png",
+		"name": "HIDRATANTE CORPORAL CERAVE PELE SECA",
+		"adress": "https://www.cerave.com.br/",
+		"category": "hidratanteCorporal",
+		"skinType": "normal"
+	},
+	{
+		"id": 46,
+		"image": "./source/assets/products/46.png",
+		"name": "HIDRATANTE CORPORAL CETAPHIL PELE NORMAL A SECA",
+		"adress": "https://www.cetaphil.com.br/",
+		"category": "hidratanteCorporal",
+		"skinType": "seca"
+	},
+	{
+		"id": 47,
+		"image": "./source/assets/products/47.png",
+		"name": "HIDRATANTE CORPORAL NEUTROGENA PELE SECA",
+		"adress": "https://www.neutrogena.com.br/",
+		"category": "hidratanteCorporal",
+		"skinType": "normal"
+	},
+	{
+		"id": 48,
+		"image": "./source/assets/products/48.png",
+		"name": "HIDRATANTE CORPORAL NIVEA PELE SECA",
+		"adress": "https://www.nivea.com.br/",
+		"category": "hidratanteCorporal",
+		"skinType": "seca"
+	},
+	{
+		"id": 49,
+		"image": "./source/assets/products/49.png",
+		"name": "HIDRATANTE CORPORAL FISIOGEL PELE SECA",
+		"adress": "https://www.megalabsbrasil.com.br/",
+		"category": "hidratanteCorporal",
+		"skinType": "seca"
+	},
+	{
+		"id": 50,
+		"image": "./source/assets/products/50.png",
+		"name": "HIDRATANTE CORPORAL FISIOGEL PELE SECA E SENSIVEL",
+		"adress": "https://www.megalabsbrasil.com.br/",
+		"category": "hidratanteCorporal",
+		"skinType": "sensivel"
+	},
+	{
+		"id": 51,
+		"image": "./source/assets/products/51.png",
+		"name": "HIDRATANTE CORPORAL BEPANTOL PELE SECA",
+		"adress": "https://www.bepantol.com.br/",
+		"category": "hidratanteCorporal",
+		"skinType": "seca"
+	},
+	{
+		"id": 52,
+		"image": "./source/assets/products/52.png",
+		"name": "HIDRATANTE CORPORAL DOVE TODOS OS TIPOS DE PELE",
+		"adress": "https://www.dove.com/br/home.html",
+		"category": "hidratanteCorporal",
+		"skinType": "normal"
+	}
+]
