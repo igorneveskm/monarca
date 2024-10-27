@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"image": "source/assets/products/1.png",
+		"image": "https://i.imgur.com/uQzv3qv.png",
 		"name": "SABONETE FACIAL AVENE PELE MISTA A OLEOSA E SENSIVEL",
 		"adress": "https://www.eau-thermale-avene.com.br/",
 		"category": "gelDeLimpeza",
@@ -9,7 +9,7 @@
 	},
 	{
 		"id": 2,
-		"image": "source/assets/products/2.png",
+		"image": "https://i.imgur.com/szc8MSv.png",
 		"name": "SABONETE FACIAL DARROW PELE OLEOSA E ACNEICA",
 		"adress": "https://darrow.com.br/",
 		"category": "gelDeLimpeza",
