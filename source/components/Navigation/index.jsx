@@ -12,10 +12,10 @@ export function Navigation() {
 					<Link to="/">Home</Link>
 				</li>
 				<li>
-					<a href="#doencas-de-pele">Doenças de Pele</a>
+					<Link to="#doencas-de-pele">Doenças de Pele</Link>
 				</li>
 				<li>
-					<a href="#casos-de-famosos">Caso de Famosos</a>
+					<Link to="/home#casos-de-famosos">Caso de Famosos</Link>
 				</li>
 				<li>
 					<Link to="/rotina">Rotina</Link>
