@@ -28,22 +28,22 @@ export function Dermatologista() {
 					<h2>Marque sua consulta</h2>
 					<h3>Principais procedimentos realizados em nossas clínicas</h3>
 					<ol>
-						<li>Tratamento de Acne</li>
-						<li>Tratamento de Melasma</li>
-						<li>Tratamento de Cancer de Pele</li>
-						<li>Tratamento de Dermatite</li>
-						<li>Tratamento de Rosácea</li>
-						<li>Tratamento de Alopecia</li>
-						<li>Aplicação de Toxina Botulínica (Botox)</li>
-						<li>Preenchimento Facial</li>
-						<li>Peelings Químicos</li>
-						<li>Tratamento de Manchas, Estrias e Cicatrizes</li>
-						<li>Cirurgias Dermatológicas Realizadas na Própria Clínica</li>
-						<li>Depilação a Laser</li>
-						<li>Crioterapia</li>
-						<li>Bioestimulador de Colagénio</li>
-						<li>Lasers Modernos</li>
-						<li>Remoção de Tatuagens</li>
+						<li>*Tratamento de Acne</li>
+						<li>*Tratamento de Melasma</li>
+						<li>*Tratamento de Cancer de Pele</li>
+						<li>*Tratamento de Dermatite</li>
+						<li>*Tratamento de Rosácea</li>
+						<li>*Tratamento de Alopecia</li>
+						<li>*Aplicação de Toxina Botulínica (Botox)</li>
+						<li>*Preenchimento Facial</li>
+						<li>*Peelings Químicos</li>
+						<li>*Tratamento de Manchas, Estrias e Cicatrizes</li>
+						<li>*Cirurgias Dermatológicas Realizadas na Própria Clínica</li>
+						<li>*Depilação a Laser</li>
+						<li>*Crioterapia</li>
+						<li>*Bioestimulador de Colagénio</li>
+						<li>*Lasers Modernos</li>
+						<li>*Remoção de Tatuagens</li>
 					</ol>
 					<div className="social-media">
 						<span>CLIQUE ONDE PREFERIR E MARQUE SUA CONSULTA</span>
