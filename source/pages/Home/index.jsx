@@ -66,9 +66,11 @@ export function Home() {
 		<Container>
 			<Navigation />
 			<main>
+				<div >
 				<Banner>
 					<img src={BannerImage} alt="Banner" />
 				</Banner>
+				</div>
 				<Section id="doencas-de-pele">
 					<h2>Doenças de pele mais comuns</h2>
 					<div className="cards">
@@ -134,20 +136,28 @@ export function Home() {
 								</Link>
 							</li>
 							<li>
+								<Link to="/produtos">
 								<img src={hidraFa} alt="Hidratante Facial" />
 								<span>Hidratante Facial</span>
+								</Link>
 							</li>
 							<li>
+								<Link to="/produtos">
 								<img src={protSol} alt="Protetor Solar" />
 								<span>Protetor Solar</span>
+								</Link>
 							</li>
 							<li>
+								<Link to="/produtos">
 								<img src={trat} alt="Tratamento" />
 								<span>Tratamento</span>
+								</Link>
 							</li>
 							<li>
+								<Link to="/produtos">
 								<img src={hidraCo} alt="Hidratante Corporal" />
 								<span>Hidratante Corporal</span>
+								</Link>
 							</li>
 						</ul>
 					</div>
