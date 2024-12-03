@@ -33,9 +33,12 @@ export function Navigation() {
 					<Link to={{ pathname: "/home", hash: "#ativos" }}>Ingredientes</Link>
 				</li>
 				<li>
-					<Link to="/">App</Link>
+					<a href="https://monarca.informatica3c.com.br/">Comunidade</a>
 				</li>
 			</ul>
 		</Container>
 	);
 }
+
+// https://monarca.informatica3c.com.br/
+
